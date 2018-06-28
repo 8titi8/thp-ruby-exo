@@ -1,4 +1,5 @@
-Hit there !
-Ce repository contient tous les fichiers d'exercices réalisés lors des jours 4 et 5 de la semaine 0 de The Hacking Project.
+Hello hello !
 
----------------- Conseil : Checker plutôt la pyramideBG, elle ne risquera pas de s'écrouler ! ;) ----------------
+Petit repository contenant tous les fichiers d'exercices réalisés lors des jours 4 et 5 de la semaine 0 de The Hacking Project.
+
+--> Conseil : Check plutôt la pyramideBG, elle aura moins de risque de s'écrouler ! ;)
